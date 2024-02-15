@@ -2,9 +2,9 @@ from wx_mp_svr import Server, WxMpReqMsg, WxMpRspMsg  # 从wx_mp_svr包中导入
 
 
 def main():
-    token = "xxx"
-    aes_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-    appid = "YOUR_OWN_APP_ID"
+    token = "xxxxxxx"
+    aes_key = "YzGTJA0ZmLkXZNrExJg6iCv6sUhuuG19FayFopma1AC"
+    appid = "wx5f0df4d7e4ee169f"
     host = "127.0.0.1"
     port = 5001
     server = Server(
